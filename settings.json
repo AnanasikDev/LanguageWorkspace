@@ -1,0 +1,37 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "remote.SSH.externalSSH_ASKPASS": true,
+    "php.suggest.basic": true,
+    "php.validate.enable": true,
+    "php.validate.executablePath": "",
+    "code-runner.runInTerminal": true,
+    "omnisharp.dotNetCliPaths": [
+        "/usr/share/dotnet/sdk/7.0.102/"
+    ],
+    "omnisharp.dotnetPath": "/usr/share/dotnet/sdk/7.0.102/",
+    "omnisharp.useModernNet": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 2,
+    "editor.minimap.enabled": false,
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "database.txt",
+                "isAsync": true,
+                "cmd": "python3 '/media/jam/win11/Archive/School/Deutsch/LanguageWorkspace/databasesorter.py'"
+            },
+            {
+                "match": "databasesorter.py",
+                "isAsync": true,
+                "cmd": "python3 '/media/jam/win11/Archive/School/Deutsch/LanguageWorkspace/databasesorter.py'"
+            }
+        ]
+    },
+    "markdown.editor.drop.enabled": false,
+    "[markdown]": {
+        "workbench.editor.languageDetection": false
+    }
+}
