@@ -42,8 +42,13 @@ bool: showNounsArticles (False by default)
 - Only German language is supported by default (auto-detection of nouns and irregular verbs)
 - Customisation values are only accessible from the python script
 - Widget is available only for Linux
+- German: cannot properly form Parz2 form with separable verbs
 
 ## Future improvements
 
 - Toggle show plural forms of nouns
 - Table for plural forms of nouns
+- Grammar sheet
+- Exercises for memorising words
+- Studying statistics
+- Syntax highlighting inside VSCode (distinguishing diff. genders of nouns etc.)

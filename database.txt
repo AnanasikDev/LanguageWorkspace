@@ -81,7 +81,7 @@ die Rolle, -n - роль
 das Leben, - - жизнь
 treiben - заниматься (i.e. спортом)
 benutzen - to use
-bieten bot geboten - to offer
+(ver)bieten bot geboten - to offer; запрещать
 vergleichen verglich verglichen - to compare, сравнивать
 beschreiben beschrieb beschrieben - to describe
 sich vorstellen D - to introduce

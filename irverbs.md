@@ -64,26 +64,27 @@
 | <span style="color:#AAAAFF">to get up</span> | <span style="color:#AAAAFF">aufstehen</span> | <span style="color:#AAAAFF">aufstand</span> | <span style="color:#AAAAFF">aufgestanden</span> |
 | <span style="color:#FFAAAA">to hit, ударять</span> | <span style="color:#FFAAAA">schlagen</span> | <span style="color:#FFAAAA">schlug</span> | <span style="color:#FFAAAA">geschlagen</span> |
 | <span style="color:#FFAAAA">to suggest</span> | <span style="color:#FFAAAA">vorschlagen</span> | <span style="color:#FFAAAA">vorschlug</span> | <span style="color:#FFAAAA">vorgeschlagen</span> |
-| to offer | bieten | bot | geboten |
+| <span style="color:#FFAAFF">to offer</span> | <span style="color:#FFAAFF">bieten</span> | <span style="color:#FFAAFF">bot</span> | <span style="color:#FFAAFF">geboten</span> |
+| <span style="color:#FFAAFF">запрещать</span> | <span style="color:#FFAAFF">verbieten</span> | <span style="color:#FFAAFF">verbot</span> | <span style="color:#FFAAFF">vergeboten</span> |
 | to compare, сравнивать | vergleichen | verglich | verglichen |
 | to describe | beschreiben | beschrieb | beschrieben |
 | to be liked by | gefallen | gefiel | gefallen |
-| <span style="color:#FFAAFF">to break</span> | <span style="color:#FFAAFF">brechen</span> | <span style="color:#FFAAFF">brach</span> | <span style="color:#FFAAFF">gebrochen</span> |
-| <span style="color:#FFAAFF">to interrupt, прерывать</span> | <span style="color:#FFAAFF">abbrechen</span> | <span style="color:#FFAAFF">abbrach</span> | <span style="color:#FFAAFF">abgebrochen</span> |
+| <span style="color:#AAAAFF">to break</span> | <span style="color:#AAAAFF">brechen</span> | <span style="color:#AAAAFF">brach</span> | <span style="color:#AAAAFF">gebrochen</span> |
+| <span style="color:#AAAAFF">to interrupt, прерывать</span> | <span style="color:#AAAAFF">abbrechen</span> | <span style="color:#AAAAFF">abbrach</span> | <span style="color:#AAAAFF">abgebrochen</span> |
 | to cut | schneiden | schnitt | geschnitten |
-| <span style="color:#AAAAFF">to allow, to let</span> | <span style="color:#AAAAFF">lassen</span> | <span style="color:#AAAAFF">ließ</span> | <span style="color:#AAAAFF">gelassen</span> |
-| <span style="color:#AAAAFF">оставлять, to leave</span> | <span style="color:#AAAAFF">verlassen</span> | <span style="color:#AAAAFF">verließ</span> | <span style="color:#AAAAFF">vergelassen</span> |
-| <span style="color:#FFAAAA">to come</span> | <span style="color:#FFAAAA">kommen</span> | <span style="color:#FFAAAA">kam</span> | <span style="color:#FFAAAA">gekommen</span> |
-| <span style="color:#FFAAAA">to return</span> | <span style="color:#FFAAAA">zurückkommen</span> | <span style="color:#FFAAAA">zurückkam</span> | <span style="color:#FFAAAA">zurückgekommen</span> |
-| <span style="color:#FFAAAA">to come along</span> | <span style="color:#FFAAAA">mitkommen</span> | <span style="color:#FFAAAA">mitkam</span> | <span style="color:#FFAAAA">mitgekommen</span> |
-| <span style="color:#FFAAAA">to arrive</span> | <span style="color:#FFAAAA">ankommen</span> | <span style="color:#FFAAAA">ankam</span> | <span style="color:#FFAAAA">angekommen</span> |
+| <span style="color:#FFAAAA">to allow, to let</span> | <span style="color:#FFAAAA">lassen</span> | <span style="color:#FFAAAA">ließ</span> | <span style="color:#FFAAAA">gelassen</span> |
+| <span style="color:#FFAAAA">оставлять, to leave</span> | <span style="color:#FFAAAA">verlassen</span> | <span style="color:#FFAAAA">verließ</span> | <span style="color:#FFAAAA">vergelassen</span> |
+| <span style="color:#FFAAFF">to come</span> | <span style="color:#FFAAFF">kommen</span> | <span style="color:#FFAAFF">kam</span> | <span style="color:#FFAAFF">gekommen</span> |
+| <span style="color:#FFAAFF">to return</span> | <span style="color:#FFAAFF">zurückkommen</span> | <span style="color:#FFAAFF">zurückkam</span> | <span style="color:#FFAAFF">zurückgekommen</span> |
+| <span style="color:#FFAAFF">to come along</span> | <span style="color:#FFAAFF">mitkommen</span> | <span style="color:#FFAAFF">mitkam</span> | <span style="color:#FFAAFF">mitgekommen</span> |
+| <span style="color:#FFAAFF">to arrive</span> | <span style="color:#FFAAFF">ankommen</span> | <span style="color:#FFAAFF">ankam</span> | <span style="color:#FFAAFF">angekommen</span> |
 | to receive, to get | bekommen | bekam | bekommen |
-| <span style="color:#FFAAFF">to close</span> | <span style="color:#FFAAFF">schließen</span> | <span style="color:#FFAAFF">schloss</span> | <span style="color:#FFAAFF">geschlossen</span> |
-| <span style="color:#FFAAFF">завершать, заключать</span> | <span style="color:#FFAAFF">abschließen</span> | <span style="color:#FFAAFF">abschloss</span> | <span style="color:#FFAAFF">abgeschlossen</span> |
-| <span style="color:#AAAAFF">to load</span> | <span style="color:#AAAAFF">laden</span> | <span style="color:#AAAAFF">lud</span> | <span style="color:#AAAAFF">geladen</span> |
-| <span style="color:#AAAAFF">to upload</span> | <span style="color:#AAAAFF">hochladen</span> | <span style="color:#AAAAFF">hochlud</span> | <span style="color:#AAAAFF">hochgeladen</span> |
-| <span style="color:#AAAAFF">to download</span> | <span style="color:#AAAAFF">herunterladen</span> | <span style="color:#AAAAFF">herunterlud</span> | <span style="color:#AAAAFF">heruntergeladen</span> |
-| <span style="color:#AAAAFF">to invite</span> | <span style="color:#AAAAFF">einladen</span> | <span style="color:#AAAAFF">einlud</span> | <span style="color:#AAAAFF">eingeladen</span> |
+| <span style="color:#AAAAFF">to close</span> | <span style="color:#AAAAFF">schließen</span> | <span style="color:#AAAAFF">schloss</span> | <span style="color:#AAAAFF">geschlossen</span> |
+| <span style="color:#AAAAFF">завершать, заключать</span> | <span style="color:#AAAAFF">abschließen</span> | <span style="color:#AAAAFF">abschloss</span> | <span style="color:#AAAAFF">abgeschlossen</span> |
+| <span style="color:#FFAAAA">to load</span> | <span style="color:#FFAAAA">laden</span> | <span style="color:#FFAAAA">lud</span> | <span style="color:#FFAAAA">geladen</span> |
+| <span style="color:#FFAAAA">to upload</span> | <span style="color:#FFAAAA">hochladen</span> | <span style="color:#FFAAAA">hochlud</span> | <span style="color:#FFAAAA">hochgeladen</span> |
+| <span style="color:#FFAAAA">to download</span> | <span style="color:#FFAAAA">herunterladen</span> | <span style="color:#FFAAAA">herunterlud</span> | <span style="color:#FFAAAA">heruntergeladen</span> |
+| <span style="color:#FFAAAA">to invite</span> | <span style="color:#FFAAAA">einladen</span> | <span style="color:#FFAAAA">einlud</span> | <span style="color:#FFAAAA">eingeladen</span> |
 | to die | sterben | starb | gestorben |
 | to decide | sich entschließen | entschloss | entschlossen |
 | to stop | halten | hielt | gehalten |
@@ -91,8 +92,8 @@
 | поливать | gießen | goss | gegossen |
 | to miss, скучать | vermiss | vermaß | vermessen |
 | to grow, расти | wachsen | wuchs | gewachsen |
-| <span style="color:#FFAAAA">поднимать, увеличивать</span> | <span style="color:#FFAAAA">heben</span> | <span style="color:#FFAAAA">hob</span> | <span style="color:#FFAAAA">gehoben</span> |
-| <span style="color:#FFAAAA">снимать (с чего-то</span> | <span style="color:#FFAAAA">abheben</span> | <span style="color:#FFAAAA">abhob</span> | <span style="color:#FFAAAA">abgehoben</span> |
+| <span style="color:#FFAAFF">поднимать, увеличивать</span> | <span style="color:#FFAAFF">heben</span> | <span style="color:#FFAAFF">hob</span> | <span style="color:#FFAAFF">gehoben</span> |
+| <span style="color:#FFAAFF">снимать (с чего-то</span> | <span style="color:#FFAAFF">abheben</span> | <span style="color:#FFAAFF">abhob</span> | <span style="color:#FFAAFF">abgehoben</span> |
 | to sound | klingen | klang | geklungen |
 | to suck, пылесосить | saugen | sog | gesogen |
 | to smell, пахнуть | riechen | roch | gerochen |
