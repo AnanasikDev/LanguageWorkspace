@@ -143,6 +143,12 @@ def Sort_Irregular_Verbs(colorifyGroups):
         output += f"| {trs[i]} | {inf[i]} | {prt[i]} | {paz[i]} |\n"
     return output
 
+def Sort_Nouns_Plurals():
+    nouns = []
+    for l in lines:
+        if l.startswith("der ") or l.startswith("die ") or l.startswith("das "):
+            nouns.append(l)
+
 def write_result(result, file):
     f = open(file, "w")
     f.write(result)

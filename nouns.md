@@ -58,13 +58,13 @@
 | <span style="color:#BBCCFF">Westen - west</span> | <span style="color:#FFAABB">Miete - rent</span> | <span style="color:#BBFFCC">Mitglied, -er - member, член</span> |
 | <span style="color:#BBCCFF">Wind, -e - wind</span> | <span style="color:#FFAABB">Ausbildung - education</span> | <span style="color:#BBFFCC">Werk - work, factory</span> |
 | <span style="color:#BBCCFF">Berg, -e - гора</span> | <span style="color:#FFAABB">Wiederholung, -en - repetition</span> | <span style="color:#BBFFCC">Stockwerk, -e - floor, этаж</span> |
-| <span style="color:#BBCCFF">See, -n - озеро</span> | <span style="color:#FFAABB">Rücksicht - consideration</span> | <span style="color:#BBFFCC"></span> |
+| <span style="color:#BBCCFF">See, -n - озеро</span> | <span style="color:#FFAABB">Rücksicht - consideration</span> | <span style="color:#BBFFCC">Meisterwerk, -e - masterpiece</span> |
 | <span style="color:#BBCCFF">König, -e - king</span> | <span style="color:#FFAABB">Möglichkeit, -en - opportunity, возможность</span> | <span style="color:#BBFFCC"></span> |
 | <span style="color:#BBCCFF">Besucher, - - visitor, посетитель</span> | <span style="color:#FFAABB">Umsetzung - implementation</span> | <span style="color:#BBFFCC"></span> |
 | <span style="color:#BBCCFF">Humor - humor</span> | <span style="color:#FFAABB">Schlange, -n - snake</span> | <span style="color:#BBFFCC"></span> |
 | <span style="color:#BBCCFF">Anfang, ⸚e - начало</span> | <span style="color:#FFAABB">Etage, -n - floor, этаж</span> | <span style="color:#BBFFCC"></span> |
-| <span style="color:#BBCCFF">Neuanfang, ⸚e - новое начало</span> | <span style="color:#FFAABB"></span> | <span style="color:#BBFFCC"></span> |
-| <span style="color:#BBCCFF">Gruß - greeting</span> | <span style="color:#FFAABB"></span> | <span style="color:#BBFFCC"></span> |
+| <span style="color:#BBCCFF">Neuanfang, ⸚e - новое начало</span> | <span style="color:#FFAABB">Kneipe, -n - бар, pub</span> | <span style="color:#BBFFCC"></span> |
+| <span style="color:#BBCCFF">Gruß - greeting</span> | <span style="color:#FFAABB">Aktivität, -en - activity</span> | <span style="color:#BBFFCC"></span> |
 | <span style="color:#BBCCFF">Drucker, - - printer</span> | <span style="color:#FFAABB"></span> | <span style="color:#BBFFCC"></span> |
 | <span style="color:#BBCCFF">Laptop, -s - laptop</span> | <span style="color:#FFAABB"></span> | <span style="color:#BBFFCC"></span> |
 | <span style="color:#BBCCFF">Arm, -e - arm</span> | <span style="color:#FFAABB"></span> | <span style="color:#BBFFCC"></span> |

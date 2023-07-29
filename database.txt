@@ -397,3 +397,6 @@ empfehlen empfahl empfohlen - to recommend, to advise
 verlieren verlor verloren - to lose, терять
 das Stockwerk, -e - floor, этаж
 die Etage, -n - floor, этаж
+das Meisterwerk, -e - masterpiece
+die Kneipe, -n - бар, pub
+die Aktivität, -en - activity
