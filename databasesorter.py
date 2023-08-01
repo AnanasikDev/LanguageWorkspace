@@ -33,6 +33,13 @@ def render_header(colomns):
     return header
 
 def sort_nouns(lines):
+    nouns = []
+    for l in lines:
+        if l.startswith("der ") or l.startswith("die ") or l.startswith("das "):
+            nouns.append(l)
+    return nouns
+
+def sort_nouns_gender(lines):
     masc = []
     femi = []
     neut = []
@@ -50,7 +57,7 @@ def sort_nouns(lines):
 def Sort_Nouns_Gender(colorifyText, showArticle):
     output = ""
     output += render_header(["Masculine", "Feminine", "Neutral"])
-    mlist, flist, nlist = sort_nouns(lines)
+    mlist, flist, nlist = sort_nouns_gender(lines)
     for i in range(max(len(mlist), len(flist), len(nlist))):
         m = mlist[i] if i < len(mlist) else " "
         f = flist[i] if i < len(flist) else " "
@@ -64,16 +71,41 @@ def Sort_Nouns_Gender(colorifyText, showArticle):
             output += f"| {m} | {f} | {n} |\n"
     return output
 
+def sort_verbs(lines):
+    verbs = []
+    for l in lines:
+        de_en = l.split(" - ")
+        comps = l.split(" ")
+        if ("to " in de_en[1]):
+            verbs.append(l)
+        elif (comps[0].endswith("en")):
+            verbs.append(l)
+        elif (comps[0] == "sich"):
+            verbs.append(l)
+        elif (comps[0][0] == "("):
+            verbs.append(l)
+    return verbs
+
 colorid = 0
-def sort_verbs(lines, colorifyGroups):
+def sort_irr_verbs(lines, colorifyGroups):
     trs = []
     inf = []
     prt = []
     paz = []
 
+    def need2AddGe(infinitive):
+        for prefix in ["be", "emp", "ent", "er", "ge", "miss", "ver", "zer"]:
+            if infinitive.startswith(prefix):
+                return False
+        if infinitive.endswith("ieren"):
+            return False
+        return True
+
     def parse_verb(line):
         global colorid
         prefixes = ['']
+        reflexives = ['']
+        cases = ['']
         if line[0] == "(":
             p = line.split(")")
             prefstring = p[0][1::]
@@ -106,6 +138,18 @@ def sort_verbs(lines, colorifyGroups):
             if colorifyGroups:
                 return colorify(text, colors[colorid])
             return text
+
+        def make3form(inf, f3, pref):
+            if need2AddGe(inf):
+                return pref + f3
+            if f3.startswith("ge"):
+                return pref + f3[2::]
+            return pref + f3
+
+        def make2form(inf, f2, pref):
+            if need2AddGe(inf):
+                return f2 + " " + pref
+            return pref + f2
         
         if len(prefixes) == 1:
             trs.append(transvars[0])
@@ -117,28 +161,20 @@ def sort_verbs(lines, colorifyGroups):
             for i in range(0, len(prefixes)):
                 trs.append(_colorify(transvars[i]))
                 inf.append(_colorify(("sich " if reflexive else "") + prefixes[i] + forms3[0]))
-                prt.append(_colorify(prefixes[i] + forms3[1]))
-                paz.append(_colorify(prefixes[i] + forms3[2]))
+                prt.append(_colorify(make2form(prefixes[i] + forms3[0], forms3[1], prefixes[i])))
+                paz.append(_colorify(make3form(prefixes[i] + forms3[0], forms3[2], prefixes[i])))
             colorid = repeat(colorid+1, 3, len(colors)-1)
 
-    for l in lines:
-        de_en = l.split(" - ")
-        comps = l.split(" ")
-        if ("to " in de_en[1]):
-            parse_verb(l)
-        elif (comps[0].endswith("en")):
-            parse_verb(l)
-        elif (comps[0] == "sich"):
-            parse_verb(l)
-        elif (comps[0][0] == "("):
-            parse_verb(l)
+    verbs = sort_verbs(lines)
+    for v in verbs:
+        parse_verb(v)
     
     return trs, inf, prt, paz
 
 def Sort_Irregular_Verbs(colorifyGroups):
     output = ""
     output += render_header(["Translation", "Infinitive", "Präteritum", "Partizip II"])
-    trs, inf, prt, paz = sort_verbs(lines, colorifyGroups)
+    trs, inf, prt, paz = sort_irr_verbs(lines, colorifyGroups)
     for i in range(len(inf)):
         output += f"| {trs[i]} | {inf[i]} | {prt[i]} | {paz[i]} |\n"
     return output

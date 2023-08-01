@@ -52,3 +52,4 @@ bool: showNounsArticles (False by default)
 - Exercises for memorising words
 - Studying statistics
 - Syntax highlighting inside VSCode (distinguishing diff. genders of nouns etc.)
+- Reversed ordering of new noun option

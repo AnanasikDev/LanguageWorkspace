@@ -1,12 +1,26 @@
 # Grammar Sheet
 
+## Unseperable prefixes
+
+Die Partizipien der Verben mit den Präfixen ***be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*** werden ohne ge- gebildet. Ebenso die der Verben auf ***-ieren***.
+
 ## Active Voice (Aktiv)
 
-### Active perfekt
+### Activ perfekt
 ___ haben/sein(conj) ___ Partizip II
 
-### Active plusquamperfekt
+### Activ plusquamperfekt
 ___ haben/sein(präteritum) ___ Partizip II
+
+### Aktiv Futur I
+
+___ werden(conj) ___ verb(inf)
+
+### Aktiv Futur II
+
+When the action will be finished by a certain point of time
+
+___ werden(conj) ___ Partizip II + sein/haben
 
 ## Passive Voice (Passiv)
 
@@ -14,12 +28,46 @@ ___ haben/sein(präteritum) ___ Partizip II
 
 ___ werden(conj) ___ Partizip II
 
-### Passive präteritum
+### Passiv präteritum
 
 ___ wurden(conj) ___ Partizip II
 
-### Passive perfekt
+### Passiv perfekt
 ___ sein(conj) ___ Partizip II + worden
 
-### Passive plusquamperfekt
+### Passiv plusquamperfekt
 ___ waren(conj) ___ Partizip II + worden
+
+### Passiv + subject
+
+___ von + subject
+
+___ werden(conj) ___ Partizip II + sein/haben
+
+Oleg wird nach Moskau geflogen sein.
+Ich werde das Telefon repariert haben.
+
+### Passiv Futur I
+
+___ werden(conj) ___ Partizip II + werden(static)
+
+Das Auto wird repariert werden.
+
+### Passiv Futur II
+
+___ werden(conj) ___ Partizip II + worden sein(static)
+
+Das Auto wird bis näschten Montag repariert worden sein.
+
+### Zustans passiv
+
+___ sein(conj) ___ Partizip II
+
+## Irregular verbs
+
+Q: why verstehen doesn't get 'i' insted of 'e' in the root if conjugated?
+Q: how to know when to use "ie" or "e"?
+
+- a -> ä
+- e -> i/ie
+- au -> äu
