@@ -39,12 +39,12 @@ def sort_nouns(lines):
             nouns.append(l)
     return nouns
 
-def sort_nouns_gender(lines):
+def sort_nouns_gender(lines, order):
     masc = []
     femi = []
     neut = []
 
-    for l in lines:
+    for l in lines[::order]:
         if l.startswith("der "):
             masc.append(l)
         if l.startswith("die "):
@@ -54,10 +54,10 @@ def sort_nouns_gender(lines):
     
     return masc, femi, neut
 
-def Sort_Nouns_Gender(colorifyText, showArticle):
+def Sort_Nouns_Gender(colorifyText, showArticle, order):
     output = ""
     output += render_header(["Masculine", "Feminine", "Neutral"])
-    mlist, flist, nlist = sort_nouns_gender(lines)
+    mlist, flist, nlist = sort_nouns_gender(lines, order)
     for i in range(max(len(mlist), len(flist), len(nlist))):
         m = mlist[i] if i < len(mlist) else " "
         f = flist[i] if i < len(flist) else " "
@@ -190,6 +190,8 @@ def write_result(result, file):
     f.write(result)
 
 COLORIFY = True
+STRAIGHT = 1
+REVERSED = -1
 
-write_result(Sort_Nouns_Gender(COLORIFY, False), "nouns.md")
+write_result(Sort_Nouns_Gender(COLORIFY, False, order=REVERSED), "nouns.md")
 write_result(Sort_Irregular_Verbs(COLORIFY), "irverbs.md")
