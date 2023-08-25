@@ -1,11 +1,11 @@
 ## Exercises
-1. fantasievoll - creative, творческий, причудливый<br>
-2. pünktlich - пунктуальный<br>
-3. (beauf)tragen trug getragen - to wear, to carry; поручать<br>
-4. (an, aus)rufen rief gerufen - звать; звонить; выкрикивать<br>
-5. schneiden schnitt geschnitten - to cut<br>
-6. singen sang gesungen - to sing<br>
-7. der Mond - moon<br>
-8. saugen sog gesogen - to suck, пылесосить<br>
-9. veröffentlichen - to publish, to release<br>
-10. ehrenamtlich - добровольный, общественный<br>
+1. die Aktion - action<br>
+2. das Projekt, -e - проект<br>
+3. die Regierung - government<br>
+4. das Schiff, -e - ship<br>
+5. träumen - to dream, мечтать<br>
+6. der Zettel, -e - piece of paper<br>
+7. das Kompliment, -e - compliment, комплимент<br>
+8. (aus)füllen - to fill<br>
+9. schwanger - pregnant, беременный<br>
+10. die Reise - путешествие<br>

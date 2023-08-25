@@ -1,6 +1,6 @@
 das Wort, ⸚er - word
 (vor)haben hatte gehabt - to have; to plan, to intend
-(an, mit)machen - to make, do; to turn on; to participate
+(an, mit, auf)machen - to make, to do; to turn on; to participate; to open
 (zu)sagen - to say, to tell; обещать, соглашаться
 finden fand gefunden - to find
 singen sang gesungen - to sing
@@ -75,7 +75,7 @@ hilfsbereit - всегда готовый помочь
 bereit - ready
 fertig - ready
 (vor) schlagen schlug geschlagen - to hit, ударять; to suggest
-der Satz, ⸚e - предложение
+der Satz, ⸚e - предложение, партия
 der Ausdruck, ⸚e - phrase, expression
 erzählen - рассказывать
 teilnehmen an - принимать участие в
@@ -90,13 +90,13 @@ sich vorstellen D - to introduce
 bezahlen - to pay, платить
 zahlen - to pay, платить
 tauschen - to change, менять
-(ein)ziehen - рисовать / to pull; переезжать, заезжать
+(ein, um)ziehen zog gezogen - рисовать / to pull; заселяться, заезжать; переезжать
 folgen D - to follow
 gefallen gefiel gefallen D - to be liked by
 glauben (D) - to beleive
 antworten D/auf A - to answer
-beantworten A - to answer
-gehören D - to belong to
+beantworten A - to answer A
+gehören D - to belong to D
 (ab)brechen brach gebrochen - to break; to interrupt, прерывать
 bilden - to construct
 schneiden schnitt geschnitten - to cut
@@ -116,7 +116,7 @@ zeigen - to show, to point
 lösen - to solve
 (zurück, mit, an, her)kommen kam gekommen - to come; to return; to come along; to arrive; приходить, подходить
 bekommen bekam bekommen - to receive, to get
-sich interessieren für - интересоваться чем-то
+sich interessieren für - интересоваться чем-то, to be interested in
 sich um/sehen - to look around
 sich erinnern an - to remember
 (ab)holen - to get, to fetch; to pick up
@@ -158,9 +158,12 @@ der Pullover, - - pullover
 der Rock, ⸚e - юбка
 das Ergebnis, -se - result
 der Stein, -e - камень
-das Bild, -er - picture
 der Verwandte, -n - родственник
 die Verwandte, -n - родственница
+der Saft, ⸚e - juice
+der Apfel, ⸚ - apple
+das Salz - salt
+das Mehl - flour, мукá
 die Blume, -n - flower
 die Banane, -n - banana
 die Karotte, -n - carrot
@@ -168,6 +171,10 @@ die Kartoffel, -n - potato
 die Gurke, -n - cucumber
 die Nudel, -n - pasta
 die Tomate, -n - tomato
+die Milch - milk
+die Butter - butter
+das Brot - bread
+das Fleisch - meat
 die Zeitung - newspaper
 die Nachricht, -en - сообщение, новость
 der Brief, -e - письмо
@@ -182,8 +189,6 @@ der Blick, -e - view, вид
 der -Treff, -en - встреча
 der Buchstabe, -n - буква
 der Geburtstag, -e - birthday
-der Saft, ⸚e - juice
-der Apfel, ⸚ - apple
 der Laden, ⸚ - ларёк
 der Becher, - - cup
 der Sack, ⸚e - мешок, сумка
@@ -209,20 +214,16 @@ der Schlüssel, - - key
 der Spaß, ⸚e - fun
 der Durst, - - thirst
 der Hunger, - - hunger
-der Stuhl, ⸚e - chair
 der Zettel, -e - piece of paper
 der Boden, ⸚ - floor
 die Dose, -n - can, банка
 das Land, ⸚er - country, страна
 das Bett, -en - bed
 das Kind, -er - child
-das Sofa, -s - sofa
 der Nachbar, n - neighbor
 der Dialog, -e - dialogue
 der Supermarkt, ⸚e - supermarket
 das Schiff, -e - ship
-das Salz - salt
-das Mehl - flour, мукá
 das Schimmbad, ⸚er - бассейн, swimming pool
 das Gedicht, -e - стихотворение
 das Wasser - water
@@ -244,7 +245,7 @@ die Gefahr, -en - danger
 gefährlich - dangerous
 sterben starb gestorben - to die
 das Tier, -e - animal
-einfach - simple, plain
+einfach - simple, plain, просто
 das Dorf, ⸚er - village
 bauen - to build
 sich entschließen entschloss entschlossen - to decide
@@ -262,9 +263,9 @@ das Gefühl, -e - feeling, чувство
 verwenden - использовать, употреблять
 (adj) folgend - following
 raten riet geraten - to guess, гадать; advise
-übersetzen übersetzte übersetzt/übergesetzt - to translate, переводить
+übersetzen - to translate, переводить
 das Ziel, -e - цель, target
-(ver)reisen - путешествовать; уезжать
+(ver, an, ab)reisen - путешествовать; уезжать; to arrive; to depart, to leave
 reichen - подавать, протягивать; быть достаточно, хватать
 erreichen - to reach, to achieve
 gießen goss gegossen - поливать
@@ -436,8 +437,6 @@ der Ausweis - удостоверение, пропуск
 sich ärgern - злиться, раздражаться, беситься
 ärgerlich - досадный, неприятный; сердитый, раздраженный
 die Strecke - маршрут, расстояние, трасса
-die Möbel - мебель
-der Schrank - шкаф, wardrobe
 der Secondhandladen - second-hand shop
 sich duschen - принимать душ
 die Bedingung - condition, requirement, term
@@ -506,3 +505,103 @@ lernen - to study, to learn
 sparen - to save, сохранять, копить, сберегать
 der Mensch, =Männer - man =men
 die Vegetation - vegetation
+ebenso - также
+die Aktion, -en - action
+das Handlung - деяние, действие
+die Täter, - - преступник
+sondern - скорее, но
+ebenfalls - также, тоже
+entwickeln - to develop
+warten - to wait
+erwarten - to expect
+die Woche, -n - week
+reif - спелый, зрелый, ripe
+die Münze, -n - coin
+(auf)schieben - to push; to postpone, to put off, to procrastinate
+die Krankheit, -en - disease, illness
+die Sorte, -n - type
+das Holz - wood
+gleichzeitig - одновременно
+mindesten - at least
+das System, -e - system
+sicher sein - to be sure
+(aus)wählen - to choose; to choose from
+die Brücke, -n - bridge
+der Turm, ⸚e - tower
+der Gegner, - - opponent, enemy
+der Witz, -e - joke
+
+# die Möbel - Furniture
+
+die Möbel - furniture
+die Couch, -en - couch
+das Sofa, -s - sofa
+das Poster - poster
+der Teppich - rug
+der Screibtisch, -e - desk
+der Schrank, ⸚e - шкаф, wardrobe
+der Wecker - alarm clock
+der Fernseher - TV
+die Lampe, -n - lamp
+der Sessel - armchair
+der Stuhl, ⸚e - chair
+das Bild, -er - picture, photo
+das Radio - radio
+das Regal, -e - shelf
+der Vorhang - curtain
+der Kamin - камин, fireplace, chimney
+das Geschirr - disches
+die Uhr - clock
+der Computer - computer
+die Kommode - dresser, комод
+das Bücherregal - bookshelf
+der Staubsauger - vacuum cleaner, пылесос
+der Herd - stove
+der Backofen - oven
+das Spülbecken - kitchen sink
+das Waschbecken - bathroom sink
+die Maschine - machine
+die Geschirrspüpmaschine - dish waching machine
+die Waschmaschine - washing machine
+die Dusche - shower, душ
+die Badewanne - bathtub, ванна
+der Toaster - toaster
+der Kühlschrank - refrigerator
+der Spiegel - mirror
+der Staub - dust, пыль
+
+# der Urlaub - Vacation
+
+der Sand - sand
+die Sonnecreme - suncream
+das Reiseziel - holiday destination
+das Angebot - offer
+das Reisebüro - travel agency
+buchen - to book
+der Schalter - выключатель, switch
+die Kasse - касса
+die Insel - island
+der Pass - passport
+der Reisepass - загранпаспорт
+sich sonnen - загорать, to sunbathe
+die Währung - currency, валюта
+das Visum - visa
+sich auf die Reise machen - отправиться в путешествие
+der Ausflug - excursion, trip, tour
+das Einzelzimmer - одноместный номер
+das Doppelzimmer - двуместный номер
+genießen - to enjoy
+das Kurort - курорт
+der Flug - flight
+die Bordkarte - boarding pass, посадочный талон
+der Weg - way
+landen - to land
+ausländisch - foreign
+das Ausland - заграница
+der Dampfer - пароход
+die Auslandreise - trip abroad
+die Herberge - общежитие, hostel
+die Jugendherberge - молодежное общежитие
+das Camping - camping
+einpacken - to pack
+die Unterkunft - убежище, приют, временное место жительства

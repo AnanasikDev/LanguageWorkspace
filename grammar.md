@@ -6,10 +6,10 @@ Die Partizipien der Verben mit den Präfixen ***be-, emp-, ent-, er-, ge-, miss-
 
 ## Active Voice (Aktiv)
 
-### Activ perfekt
+### Aktiv perfekt
 ___ haben/sein(conj) ___ Partizip II
 
-### Activ plusquamperfekt
+### Aktiv plusquamperfekt
 ___ haben/sein(präteritum) ___ Partizip II
 
 ### Aktiv Futur I
@@ -21,6 +21,9 @@ ___ werden(conj) ___ verb(inf)
 When the action will be finished by a certain point of time
 
 ___ werden(conj) ___ Partizip II + sein/haben
+
+Oleg wird nach Moskau geflogen sein.
+Ich werde das Telefon repariert haben.
 
 ## Passive Voice (Passiv)
 
@@ -42,11 +45,6 @@ ___ waren(conj) ___ Partizip II + worden
 
 ___ von + subject
 
-___ werden(conj) ___ Partizip II + sein/haben
-
-Oleg wird nach Moskau geflogen sein.
-Ich werde das Telefon repariert haben.
-
 ### Passiv Futur I
 
 ___ werden(conj) ___ Partizip II + werden(static)
@@ -65,9 +63,12 @@ ___ sein(conj) ___ Partizip II
 
 ## Irregular verbs
 
-Q: why verstehen doesn't get 'i' insted of 'e' in the root if conjugated?
+Q: why verstehen doesn't get 'i' instead of 'e' in the root if conjugated?
+
 Q: how to know when to use "ie" or "e"?
 
 - a -> ä
 - e -> i/ie
 - au -> äu
+
+n-deklination
