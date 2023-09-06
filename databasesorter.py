@@ -17,6 +17,8 @@ NOUNS_GENDER_SHOW_ARTICLE = True
 
 IRRVERBS_COLORIFY = True
 
+REGVERBS_ORDER = REVERSED
+
 colors = ['#BBCCFF', '#FFAABB', 
           '#BBFFCC', "#AAAAFF", 
           "#FFAAAA", "#FFAAFF"]
@@ -117,7 +119,7 @@ def sort_verbs(lines):
         comps = l.split(" ")
         if ("to " in de_en[1]):
             verbs.append(l)
-        elif (comps[0].endswith("en")):
+        elif ((comps[0].endswith("en") or comps[0].endswith("ln") or comps[0].endswith("rn")) and ("ться " in comps[1] or "ть " in comps[1])):
             verbs.append(l)
         elif (comps[0] == "sich"):
             verbs.append(l)
@@ -152,10 +154,11 @@ def parse_verb(line):
     forms3 = _forms3
 
     translation = rest.split(" - ")[1]
+    allde = rest.split(" - ")[0]
 
     isreg = len(forms3) != 3
 
-    return isreg, translation, forms3, reflexive, reflexives, prefixes, cases
+    return isreg, translation, forms3, allde, reflexive, reflexives, prefixes, cases
 
 def sort_irr_verbs(lines, colorifyGroups):
     trs = []
@@ -174,7 +177,7 @@ def sort_irr_verbs(lines, colorifyGroups):
 
     def process(line):
         global irr_colorid
-        isreg, trans, forms3, reflexive, reflexives, prefixes, cases = parse_verb(line)
+        isreg, trans, forms3, allde, reflexive, reflexives, prefixes, cases = parse_verb(line)
 
         transvars = trans.split("; ")
         if isreg or len(transvars) != len(prefixes):
@@ -225,14 +228,13 @@ def Sort_Irregular_Verbs(colorifyGroups):
         output += f"| {trs[i]} | {inf[i]} | {prt[i]} | {paz[i]} |\n"
     return output
 
-
-def sort_reg_verbs(lines):
+def sort_reg_verbs(lines, order):
 
     result = []
 
     def process(line):
         global reg_colorid
-        isreg, trans, forms3, reflexive, reflexives, prefixes, cases = parse_verb(line)
+        isreg, trans, forms3, allde, reflexive, reflexives, prefixes, cases = parse_verb(line)
 
         transvars = trans.split("; ")
 
@@ -248,8 +250,9 @@ def sort_reg_verbs(lines):
                 return colorify(text, colors[reg_colorid])
             return text
         
+        f = str(allde)
         for p in range(len(prefixes)):
-            result.append([_colorify(str(prefixes[p]) + str(forms3[0])), _colorify(transvars[p])])
+            result.append([_colorify(str(prefixes[p]) + str(f)), _colorify(transvars[p])])
         
         reg_colorid = repeat(reg_colorid+1, 3, len(colors)-1)
 
@@ -272,17 +275,17 @@ def sort_reg_verbs(lines):
                 result.append(_colorify(transvars[i]))
             reg_colorid = repeat(reg_colorid+1, 3, len(colors)-1)"""
 
-    verbs = sort_verbs(lines)
+    verbs = sort_verbs(lines[::order])
     for v in verbs:
         process(v)
     
     return result
     
 
-def Sort_Regular_Verbs():
+def Sort_Regular_Verbs(order):
     #output = "<br>".join(sort_reg_verbs(lines))
     output = render_header(["En/Ru", "Deutsch"])
-    verbs = sort_reg_verbs(lines)
+    verbs = sort_reg_verbs(lines, order)
     for i in range(len(verbs)):
         output += f"|{verbs[i][0]}|{verbs[i][1]}|\n"
     return output
@@ -292,6 +295,6 @@ def write_result(result, file):
     f.write(result)
 
 
-write_result(Sort_Regular_Verbs(), "regverbs.md")
+write_result(Sort_Regular_Verbs(REGVERBS_ORDER), "regverbs.md")
 write_result(Sort_Nouns_Gender(NOUNS_GENDER_COLORIFY and COLORIFY, NOUNS_GENDER_SHOW_ARTICLE, NOUNS_GENDER_ORDER), "nouns.md")
 write_result(Sort_Irregular_Verbs(IRRVERBS_COLORIFY and COLORIFY), "irverbs.md")

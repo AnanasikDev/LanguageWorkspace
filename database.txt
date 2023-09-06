@@ -7,11 +7,11 @@ singen sang gesungen - to sing
 trinken trank getrunken - to drink
 fliegen flog geflogen - to fly
 bleiben blieb geblieben - to stay
-(ver)schreiben schrieb gescrieben - to write; прописывать
+(ver, unter)schreiben schrieb gescrieben - to write; прописывать; to sign, подписать
 werden wurde geworden - to become
 (um)steigen stieg gestiegen - to climb; пересаживаться
 helfen half geholfen D - to help
-(teil, mit)nehmen nahm genommen - to take, pick up; участвовать; take with
+(teil, mit, an)nehmen nahm genommen - to take, pick up; участвовать; take with; to be able to afford
 (ver)sprechen sprach gesprochen - to speak; обещать
 stehlen stahl gestohlen A - to steal
 beginnen begann begonnen - to begin
@@ -27,8 +27,8 @@ vergessen vergaß vergessen - to forget
 (ein, ver)schlafen schlief geschlafen - to sleep; to fall asleep; проспать
 bitten bat gebeten - to request, просить
 liegen lag gelegen - to lie, лежать
-sitzen saß gesessen - to sit
-(weg, zurück, ab)fahren fuhr gefahren - to drive; to drive away; to drive back; to leave
+(be)sitzen saß gesessen - to sit; to own
+(weg, zurück, ab, er)fahren fuhr gefahren - to drive; to drive away; to drive back; to leave; to learn, to experience
 (beauf)tragen trug getragen - to wear, to carry; поручать
 waschen wusch gewaschen - to wash
 kennen kannte gekannt - to know, to be acquainted with
@@ -40,7 +40,7 @@ dürfen durfte gedurft/dürfen - may
 (an)lügen log gelogen - лгать; лгать кому-то A
 (weg)laufen lief gelaufen - to run; to run away, убегать
 (auf)stehen stand gestanden - to stand; to get up
-(auf, zu)hören - to hear, to listen; to stop; слушать D
+(auf, zu, ge)hören - to hear, to listen; to stop; слушать D; to belong to D
 (auf, über)legen - to place, to put; класть трубку; обдумывать, размышлять
 hoffen - to hope, надеяться
 hoffentlich - hopefully
@@ -90,13 +90,12 @@ sich vorstellen D - to introduce
 bezahlen - to pay, платить
 zahlen - to pay, платить
 tauschen - to change, менять
-(ein, um)ziehen zog gezogen - рисовать / to pull; заселяться, заезжать; переезжать
+(ein, um, auf)ziehen zog gezogen - рисовать / to pull; заселяться, заезжать; переезжать; to gather, to raise children
 folgen D - to follow
 gefallen gefiel gefallen D - to be liked by
 glauben (D) - to beleive
 antworten D/auf A - to answer
 beantworten A - to answer A
-gehören D - to belong to D
 (ab)brechen brach gebrochen - to break; to interrupt, прерывать
 bilden - to construct
 schneiden schnitt geschnitten - to cut
@@ -114,16 +113,16 @@ versuchen - to attempt, to try
 probieren - to try
 zeigen - to show, to point
 lösen - to solve
-(zurück, mit, an, her)kommen kam gekommen - to come; to return; to come along; to arrive; приходить, подходить
-bekommen bekam bekommen - to receive, to get
+(be, zurück, mit, an, her)kommen kam gekommen - to come; to receive, to get; to return; to come along; to arrive; приходить, подходить
 sich interessieren für - интересоваться чем-то, to be interested in
 sich um/sehen - to look around
 sich erinnern an - to remember
 (ab)holen - to get, to fetch; to pick up
-(ab)schließen schloss geschlossen - to close; завершать, заключать
+(ab, ein)schließen schloss geschlossen - to close; завершать, заключать; to include
 abschließenden - заключительный, final
 sich freuen auf - to look forward to
 öffnen - to open
+eröffnen - to start, to open
 lachen - to laugh
 (ein, ver)kaufen - to buy; закупаться; to sell
 (hoch, herunter, ein)laden lud geladen - to load; to upload; to download; to invite
@@ -146,7 +145,7 @@ das Büro, -s - office
 das Gemüse, - - vegetable
 das Gespräch, -e - conversation
 das Stück, -e - piece
-das Geschäft, -e - shop, market
+das Geschäft, -e - shop, market; business
 das (Fahr)Rad, ⸚er - bicycle, велосипед
 das Hemd, -en - рубашка
 das Kleid, -er - платье
@@ -266,8 +265,7 @@ raten riet geraten - to guess, гадать; advise
 übersetzen - to translate, переводить
 das Ziel, -e - цель, target
 (ver, an, ab)reisen - путешествовать; уезжать; to arrive; to depart, to leave
-reichen - подавать, протягивать; быть достаточно, хватать
-erreichen - to reach, to achieve
+(er)reichen - подавать, протягивать; быть достаточно, хватать; to reach, to achieve
 gießen goss gegossen - поливать
 sofort - немедленно, сейчас же
 verletzen - to injure, to hurt, to violate
@@ -301,7 +299,7 @@ fleißig - трудолюбивый
 die Bremse, -n - тормоз, brake
 hinten - сзади, rear
 (ver)bessern - исправлять, улучшать; улучшать
-die Gesellschaft - society
+die Gesellschaft - society, company
 der Doppelgänger, - - двойник
 ähnlich - похожий
 der Norden - north
@@ -350,13 +348,13 @@ witzig - забавный, остроумный
 wütend - angry
 (aus)füllen - to fill
 die Ordnung - порядок
-/phrase/ das ist in Ordnung - в порядке, все нормально
+$ das ist in Ordnung - в порядке, все нормально
 das Einkommen - income, revenue, доход
 fest - твердый, жесткий, стабильный
 die Sache, -n - thing, вопрос
 das Ding, -e - thing
 die Miete - rent
-(über)weisen - zeigen, указывать; переводить деньги
+(über, be)weisen wies gewiesen - zeigen, указывать; переводить деньги; to prove
 die Ausbildung - education
 stecken - помещать
 (ab)heben hob gehoben - поднимать, увеличивать; снимать (с чего-то)
@@ -404,7 +402,7 @@ veröffentlichen - to publish, to release
 die Schlange, -n - snake
 das Werk - work, factory
 /informal phrase/ sein gut drauf - быть в хорошем настроении / в теме
-empfehlen empfahl empfohlen - to recommend, to advise
+(emp)fehlen - недоставать, не хватать; to recommend, to advise
 verlieren verlor verloren - to lose, терять
 das Stockwerk, -e - floor, этаж
 die Etage, -n - floor, этаж
@@ -586,8 +584,8 @@ der Reisepass - загранпаспорт
 sich sonnen - загорать, to sunbathe
 die Währung - currency, валюта
 das Visum - visa
-sich auf die Reise machen - отправиться в путешествие
-der Ausflug - excursion, trip, tour
+$ sich auf die Reise machen - отправиться в путешествие
+der Ausflug, ⸚e - excursion, trip, tour
 das Einzelzimmer - одноместный номер
 das Doppelzimmer - двуместный номер
 genießen - to enjoy
@@ -605,3 +603,138 @@ die Jugendherberge - молодежное общежитие
 das Camping - camping
 einpacken - to pack
 die Unterkunft - убежище, приют, временное место жительства
+der Vörzug - preference
+beraten beriet beraten - to consult, советовать
+die Bedingung - the condition
+die Küste - coast
+die Unterbringung - accomodation
+die Ausstattung, -en - equipment, facilities
+(be)decken - to cover; to cover
+bedeckt - bewölkt
+der Führer - leader, manager
+führen - to lead, to guide, вести
+die Kunst - art
+das Vortrag - lecture
+der Personalausweis - ID (domestic passport)
+das Verständnis - comprehension
+$ sich etwas leisten (können) - to be able to afford something
+der Bestimmungsort - destination
+die Bedienung - service
+der Vertrag - contract
+der Park, -e - park
+der Autor - autor
+voll - full
+das Gericht, -e - dish
+der Geschmack - taste
+wetten - to bet
+einverstanden - agreed
+murmeln - to murmur
+köstlich - delicious, delectable, delightful
+scharf - sharp, hot, spicy
+ziemlich - довольно, достаточно, quite, pretty
+die Gewürze - seasoning
+die Soße - sauce
+der Koch - повар, cook, chef
+$ um ehrlich zu sein - to be honest
+$ egal ob ... oder ... - doesn't matter, ... or ...
+spannend - exciting, захватывающий
+der Kuchen, - - cake
+das Dessert - dessert
+schätzen - to appreciate, to value, ценить
+der Beruf - profession, career
+mittelalterlich - medieval
+$ immer wieder - снова и снова
+der Beitrag, ⸚e - contribution, вклад
+verliebt - влюблен
+die Waage - весы, scales
+die Richtung - direction
+(vor)bereiten - to prepare; to prepare
+
+# das Wetter - weather
+
+vielseitig - variable, changeable
+je nach - according to, в зависимости от
+grundlegend - fundamentally
+die Wettervorhersage - wetter forcast
+die Vorhersage - prediction
+die Aussicht, -en - outlook, prospect; view, вид
+liefern - to deliver
+sich ankündigen - to announce
+der Schnee - snow
+scmelzen schmolz geschmolzen - to melt
+die Haut - skin
+brennen brannte gebrannt - to burn
+brennen auf der Haut - burn the skin (metaphorically)
+blitzen - to flash, сверкать
+der Donner - thunder
+donnern - to thunder, громыхать
+heftig - intense, intensive
+das Gewitter - thunderstorm
+die Wolke, -n - cloud
+$ Gewitter/Wolken aufziehen
+$ ab und zu - from time to time
+meistens - most of the time
+trocken - dry
+der Abflug, ⸚e - flight departure
+die Abfahrt - driving departure
+die Ankunft - arrival
+abkühlen - to cool down(off)
+rauer - rough, harsh
+der Hemmel - sky
+dicht - thick, dense
+der Nebel - fog, misst
+neblig - foggy
+die Sicht - view, visibility
+erschweren - to make more difficult
+häufig - often
+sich bilden - to build up, to form
+bunt - colorful
+der Regenbogen, ⸚ - rainbow
+der Regen - rain
+der Regelfallen, ⸚ - rain
+der Hagel - hail, град
+der Hagelfallen, ⸚ - hail
+der Schneefallen, ⸚ - snowing
+der Wind - wind
+nass - wet
+blasen blies geblasen - to blow
+der Sturm - storm
+entschehen - to come to (existence), to occur
+sich vorbereiten auf - to prepare for smth
+die Natur - nature
+abhängig von - to be depended on
+abhängen von - to depend on
+angenehm - comfortable
+das Freibad - public swimming pool
+gar nicht - not at all
+nachschauen - to take a look
+die Laune - mood
+heiter - warm and sunny
+$ liegen bei - to be at (temp)
+die Auflösung - dissolve
+das Gebiet - region, area
+gebietsweise - региональный, in some regions
+teils ..., teils ... - partly
+scheinen schien geschienen - shine
+die Umgebung - surroundings, neighborhood, the area around a city
+$ gegen Abend - close to evening
+möglich - possible
+die Temperatur - temperature
+der Rand - edge, border
+wolkig - cloudy, bewölkt
+gerade - right now
+regnerisch - rainy
+strahlend - bright
+die Einschränkung - restriction
+die Überschwemmung, -en - flooding, flood
+gemein - подлый, бесчестный, низкий
+der Schreck - испуг
+schrenklich - horrible
+die Sonne - sun
+warm - warm
+regneisch - rainy
+ziemlich - довольно, весьма
+der Traum - dream
+traumhaft - dreamlike
+der Schatten - shadow, shade
+schneien - to snow
