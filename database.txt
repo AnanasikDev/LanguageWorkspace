@@ -59,7 +59,7 @@ ehrlich - честный
 die Größe - размер
 langweilig - скучный
 die Ferien - каникулы
-der Bericht, -e - рассказ
+der Bericht, -e - рассказ, сообщение, report
 schon - уже, already
 stimmen - соответствовать действительности
 beachten (D) - обращать внимание
@@ -99,7 +99,7 @@ beantworten A - to answer A
 (ab)brechen brach gebrochen - to break; to interrupt, прерывать
 bilden - to construct
 schneiden schnitt geschnitten - to cut
-(aus)schauen - to look; to look like
+(aus, nach)schauen - to look; to look like; to take a look
 hassen A - to hate
 dauern - to last, длиться
 zählen - to count, считать
@@ -256,7 +256,7 @@ schaffen schuf schaffen/geschafft - to create, to make
 siegen - to win
 /phrase/ klappen gut / klappen nicht gut - идти хорошо / плохо
 sich fühlen - чувствовать себя
-(an, ab, unter)halten hielt gehalten - to hold; to stop; задерживать; беседовать
+(an, ab, unter, be)halten hielt gehalten - to hold; to stop; задерживать; беседовать; сохранять, удерживать
 stürzen - падать на землю, спотыкаться
 das Gefühl, -e - feeling, чувство
 verwenden - использовать, употреблять
@@ -521,6 +521,7 @@ die Sorte, -n - type
 das Holz - wood
 gleichzeitig - одновременно
 mindesten - at least
+zumindest - по меньшей мере
 das System, -e - system
 sicher sein - to be sure
 (aus)wählen - to choose; to choose from
@@ -671,7 +672,7 @@ donnern - to thunder, громыхать
 heftig - intense, intensive
 das Gewitter - thunderstorm
 die Wolke, -n - cloud
-$ Gewitter/Wolken aufziehen
+$ Gewitter/Wolken aufziehen - =
 $ ab und zu - from time to time
 meistens - most of the time
 trocken - dry
@@ -707,7 +708,6 @@ abhängen von - to depend on
 angenehm - comfortable
 das Freibad - public swimming pool
 gar nicht - not at all
-nachschauen - to take a look
 die Laune - mood
 heiter - warm and sunny
 $ liegen bei - to be at (temp)
@@ -729,7 +729,7 @@ die Einschränkung - restriction
 die Überschwemmung, -en - flooding, flood
 gemein - подлый, бесчестный, низкий
 der Schreck - испуг
-schrenklich - horrible
+schreklich - horrible
 die Sonne - sun
 warm - warm
 regneisch - rainy
@@ -738,3 +738,28 @@ der Traum - dream
 traumhaft - dreamlike
 der Schatten - shadow, shade
 schneien - to snow
+sogar - даже, хоть
+eher - скорее
+überwinden - to overcome, to cope
+bedeuten - to mean, to imply
+der Orkan - hurricane
+$ auf jeden Fall - в любом случае
+hierzulande - in this country
+der Kontinent, -n - continent
+der Klimawandel - climate change
+langfristig - long-term, long-range
+krank - ill
+der Wille - intention
+geschehen - to happen
+die Macht - сила, мощь, власть, могущество
+die Last - ноша, груз, бремя
+der Frohsinn - cheerfulness, mirth, fun
+versprechen - to promise
+trotzdem - still, nevertheless
+der Ehemann - husband
+die Ehefrau - wife
+die Freundshaft - friendship
+geschieden - divorced
+der Wahnsinn - madness
+streiten - to argue, to dispute
+der Lärm - noise

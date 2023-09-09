@@ -51,3 +51,5 @@ bool: showNounsArticles (False by default)
 - Table for plural forms of nouns
 - Studying statistics
 - Syntax highlighting inside VSCode (distinguishing diff. genders of nouns etc.)
+- Sorted/filtered lists by (part of speech, alphabet, topic)
+- Unified language syntax

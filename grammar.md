@@ -1,5 +1,9 @@
 # Grammar Sheet
 
+## Questions
+
+- sein in Kunjuktiv I im Präteritum? war -> KI
+
 ## Unseperable prefixes
 
 Die Partizipien der Verben mit den Präfixen ***be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*** werden ohne ge- gebildet. Ebenso die der Verben auf ***-ieren***.

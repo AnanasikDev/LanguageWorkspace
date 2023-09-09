@@ -50,6 +50,7 @@
 | <span style="color:#FFAAFF">to drive away</span> | <span style="color:#FFAAFF">wegfahren</span> | <span style="color:#FFAAFF">fuhr weg</span> | <span style="color:#FFAAFF">weggefahren</span> |
 | <span style="color:#FFAAFF">to drive back</span> | <span style="color:#FFAAFF">zurückfahren</span> | <span style="color:#FFAAFF">fuhr zurück</span> | <span style="color:#FFAAFF">zurückgefahren</span> |
 | <span style="color:#FFAAFF">to leave</span> | <span style="color:#FFAAFF">abfahren</span> | <span style="color:#FFAAFF">fuhr ab</span> | <span style="color:#FFAAFF">abgefahren</span> |
+| <span style="color:#FFAAFF">to learn, to experience</span> | <span style="color:#FFAAFF">erfahren</span> | <span style="color:#FFAAFF">erfuhr</span> | <span style="color:#FFAAFF">erfahren</span> |
 | <span style="color:#AAAAFF">to wear, to carry</span> | <span style="color:#AAAAFF">tragen</span> | <span style="color:#AAAAFF">trug </span> | <span style="color:#AAAAFF">getragen</span> |
 | <span style="color:#AAAAFF">поручать</span> | <span style="color:#AAAAFF">beauftragen</span> | <span style="color:#AAAAFF">beauftrug</span> | <span style="color:#AAAAFF">beauftragen</span> |
 | to wash | waschen | wusch | gewaschen |
@@ -120,4 +121,7 @@
 | to do | tun | tat | getan |
 | to consult, советовать | beraten | beriet | beraten |
 | to be able to afford something | sich | etwas | leisten |
+| to melt | scmelzen | schmolz | geschmolzen |
+| to burn | brennen | brannte | gebrannt |
 | from time to time | ab | und | zu |
+| to blow | blasen | blies | geblasen |
