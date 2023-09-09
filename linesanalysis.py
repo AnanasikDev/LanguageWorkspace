@@ -64,9 +64,7 @@ def process_irrverb(line, colorifyGroups):
     forms = []
 
     def _colorify(text):
-        if colorifyGroups:
-            return colorify(text, colors[irr_colorid])
-        return text
+        return ifcolorify(text, colors[irr_colorid], colorifyGroups)
 
     def make3form(inf, f3, pref):
         if need2AddGe(inf):
@@ -81,20 +79,22 @@ def process_irrverb(line, colorifyGroups):
         return pref + f2
     
     if len(prefixes) == 1:
-        forms.append(transvars[0])
-        forms.append(("sich " if reflexive else "") + forms3[0])
-        forms.append(forms3[1])
-        forms.append(forms3[2])
+        forms.append([])
+        forms[-1].append(transvars[0])
+        forms[-1].append(("sich " if reflexive else "") + forms3[0])
+        forms[-1].append(forms3[1])
+        forms[-1].append(forms3[2])
     
     else:
         for i in range(0, len(prefixes)):
-            forms.append(_colorify(transvars[i]))
-            forms.append(_colorify(("sich " if reflexive else "") + prefixes[i] + forms3[0]))
-            forms.append(_colorify(make2form(prefixes[i] + forms3[0], forms3[1], prefixes[i])))
-            forms.append(_colorify(make3form(prefixes[i] + forms3[0], forms3[2], prefixes[i])))
+            forms.append([])
+            forms[-1].append(_colorify(transvars[i]))
+            forms[-1].append(_colorify(("sich " if reflexive else "") + prefixes[i] + forms3[0]))
+            forms[-1].append(_colorify(make2form(prefixes[i] + forms3[0], forms3[1], prefixes[i])))
+            forms[-1].append(_colorify(make3form(prefixes[i] + forms3[0], forms3[2], prefixes[i])))
         irr_colorid = repeat(irr_colorid+1, 3, len(colors)-1)
     
-    return forms
+    return [[word.strip() for word in line] for line in forms]
 
 def process_regverb(line, colorifyGroups):
     global reg_colorid

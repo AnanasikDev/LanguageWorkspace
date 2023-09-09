@@ -254,18 +254,18 @@ ergänzen - to complete
 (auf)räumen - to clean, to clear; clean up
 schaffen schuf schaffen/geschafft - to create, to make
 siegen - to win
-/phrase/ klappen gut / klappen nicht gut - идти хорошо / плохо
+$ klappen gut / klappen nicht gut - идти хорошо / плохо
 sich fühlen - чувствовать себя
 (an, ab, unter, be)halten hielt gehalten - to hold; to stop; задерживать; беседовать; сохранять, удерживать
 stürzen - падать на землю, спотыкаться
 das Gefühl, -e - feeling, чувство
 verwenden - использовать, употреблять
-(adj) folgend - following
+folgend - following
 raten riet geraten - to guess, гадать; advise
 übersetzen - to translate, переводить
 das Ziel, -e - цель, target
 (ver, an, ab)reisen - путешествовать; уезжать; to arrive; to depart, to leave
-(er)reichen - подавать, протягивать; быть достаточно, хватать; to reach, to achieve
+(er)reichen - подавать, протягивать, быть достаточно, хватать; to reach, to achieve
 gießen goss gegossen - поливать
 sofort - немедленно, сейчас же
 verletzen - to injure, to hurt, to violate
@@ -326,8 +326,8 @@ die Pflanze, -n - растение
 das Alter - age
 der Anfang, ⸚e - начало
 der Neuanfang, ⸚e - новое начало
-(an)klicken - to click
-(an)kreuzen - отмечать крестиком
+(an)klicken - щелкать; to click
+(an)kreuzen - to cross; отмечать крестиком
 das Licht - light
 der Gruß - greeting
 die Ansage, -n - announcement
@@ -346,7 +346,7 @@ der Erfolg, -e - success, luck
 sich kümmern - to care
 witzig - забавный, остроумный
 wütend - angry
-(aus)füllen - to fill
+(aus)füllen - to fill; to fill in
 die Ordnung - порядок
 $ das ist in Ordnung - в порядке, все нормально
 das Einkommen - income, revenue, доход

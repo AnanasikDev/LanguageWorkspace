@@ -36,6 +36,11 @@ def repeat(a, minv, maxv):
 def colorify(string, color):
     return f"<span style=\"color:{color}\">{string}</span>"
 
+def ifcolorify(string, color, bool):
+    if bool:
+        return colorify(string, color)
+    return string
+
 def render_header(colomns):
     header = ""
     for c in colomns:

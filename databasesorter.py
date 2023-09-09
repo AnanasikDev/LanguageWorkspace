@@ -81,7 +81,6 @@ def sort_reg_verbs(lines, order):
         process_regverb(v, REGVERBS_COLORIFY)
     
     return result
-    
 
 def Sort_Regular_Verbs(order):
     output = render_header(["En/Ru", "Deutsch"])
@@ -89,10 +88,6 @@ def Sort_Regular_Verbs(order):
     for i in range(len(verbs)):
         output += f"|{verbs[i][0]}|{verbs[i][1]}|\n"
     return output
-
-def Sort_All():
-    for l in lines:
-        pass
 
 
 write_result(Sort_Regular_Verbs(REGVERBS_ORDER), "regverbs.md")
