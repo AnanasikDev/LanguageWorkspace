@@ -2,11 +2,55 @@
 
 ## Questions
 
-- sein in Kunjuktiv I im Präteritum? war -> KI
+- Vergangenheit in Kunjuktiv I? Präteritum?
+- Passiv mit Modalverben im Nebensatz? Das Auto konnte noch nicht repariert werden.
 
 ## Unseperable prefixes
 
 Die Partizipien der Verben mit den Präfixen ***be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*** werden ohne ge- gebildet. Ebenso die der Verben auf ***-ieren***.
+
+# Gender patterns
+
+<span style="color:#BBCCFF">Always Masculine:<br>
+-ant
+-ent
+-ich
+-ling
+-ismus
+-ist
+-or<br>
+Tage, Monate<br><br>
+Mostly Masculine:<br>
+-er<br>
+Wetterelemente, Himmelsrichtungen, alkoholischen Getränke</span>
+
+<span style="color:#FFAABB">
+Always Feminine:<br>
+-ei
+-anz
+-enz
+-heit
+-keit
+-ie
+-ik
+-ion
+-ität
+-schaft
+-ung
+-ur
+-in (feminine jobs or nationalities)</span><br><br>
+
+<span style="color:#BBFFCC">
+Always Neutral:<br>
+-ment
+-um<br>
+diminutives: -chen -lein<br>
+nouns made of verbs (Leben, Lesen, Schwimmen etc.)<br><br>
+Mostly Neutral:<br>
+ge-
+-tum
+-ma<br>
+metals</span>
 
 ## Active Voice (Aktiv)
 

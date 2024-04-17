@@ -1,6 +1,6 @@
 from linesanalysis import *
 
-file = open("database.txt")
+file = open("database.txt", encoding="utf-8")
 lines = file.read().split("\n")
 lines = list(filter(lambda l: not ignore_lines(l), lines))
 

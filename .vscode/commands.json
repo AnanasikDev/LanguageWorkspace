@@ -1,0 +1,10 @@
+{
+  "commands": [
+    {
+      "command": "python3 exercise.py",
+      "text": "Exercise",
+      "tooltip": "Start exercise!",
+      "color": "#FFCC00"
+    }
+  ]
+}

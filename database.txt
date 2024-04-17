@@ -86,7 +86,8 @@ benutzen - to use
 (ver)bieten bot geboten - to offer; запрещать
 vergleichen verglich verglichen - to compare, сравнивать
 beschreiben beschrieb beschrieben - to describe
-sich vorstellen D - to introduce
+sich vorstellen A - to introduce
+sich vorstellen D - to imagine
 bezahlen - to pay, платить
 zahlen - to pay, платить
 tauschen - to change, менять
@@ -230,10 +231,10 @@ das Getränk, -e - напиток
 das Konzert, -e - концерт
 die Antwort, -en - answer
 der Gegensatz, ⸚e - contrast
-fragen A - to ask
+(nach)fragen A - to ask; просить
 die Frage, -n - question
 zwischen - between
-der Gemeinschaft, -en - commmunity, сообщество
+die Gemeinschaft, -en - community, сообщество
 die Kraft, ⸚e - force, power
 der Grund, ⸚e - reason
 das Gesetz, -e - law
@@ -337,7 +338,7 @@ die Tastatur, -en - keyboard
 der Laptop, -s - laptop
 der Arm, -e - arm
 der Aufzug, ⸚e - elevator, лифт
-der Wirtschaft - economy, экономика
+die Wirtschaft - economy, экономика
 die Vergangenheit - прошлое
 meinen - to mean
 ohne - without
@@ -474,7 +475,7 @@ unterstützen - to support
 die Unterstützung - support
 der Respekt - respect
 das Mädel, -s - девочка, девушка
-gratulieren - to congrat
+gratulieren - to congratulate
 ehrenamtlich - добровольный, общественный
 sich engagieren - to become involved
 fair - fair, справедливый
@@ -763,3 +764,67 @@ geschieden - divorced
 der Wahnsinn - madness
 streiten - to argue, to dispute
 der Lärm - noise
+böse - evil
+$ mehr oder weniger - более или менее
+stolz - proud
+vertrauen - to trust
+das Vertrauen - trust
+erstellen - to create
+entwickeln - to develop
+zufällig - случайно
+ersetzen - to replace, to substitude
+der Ersatz - replacement
+vermissen - to miss
+das Dach - roof
+die Freude - joy
+trauen - to marry
+jeweils - to each
+gegen - against, about, around
+das Ereignis, -se - event, important life event
+die Veranstaltung - event, show
+hart - hard, tough, harsh, firm
+verunglücken - попасть в аварию
+der Inhaber - owner
+die Wegbescheibung - way
+die Aufforderung, -en - invitation, request
+
+der Führerschein - driving license
+umziehen - to move, переехать
+vorhaben - to plan
+genießen - to enjoy
+wohl - well, comfortably; probably
+der Mitbewohner - roommate
+nerven - нервировать, to annoy
+die Auswahl - choice, selection
+sich entscheiden - to decide, to choose
+
+die Bildungseinrichtung - учебное заведение
+die Aufzeichnung - recording
+die Ausstattung - equipment, facility
+der Hörsaal (Hörsälen) - lecture hall
+das Labor - lab, laboratory
+die Betreuung - support, supervision, assistance
+die Beratung - advice, consulting
+vertiefen - to deepen
+weltweit - worldwide
+der Austausch - exchange, replacement
+die Forschung - research, investigation
+die Verknüpfung - link, connection
+der Benutzer - user
+die Voraussetzung - precondition, requirement
+bewerben bewarb beworben - to apply, submit
+die Bewerbung - application
+richtzeitig - on time
+der Erfolg - success
+erfolgreich - successful
+der Ausfall - failure, fail
+der Bewerber - applicant, candidate
+der Arbeitgeber - employer
+der Mitarbeiter - employee, der Arbeitnehmer
+eignen - to be suitable, suit
+geeignet - suitable, appropriate
+güngstig - cheap, convenient, favourable
+führen - to lead, cause
+ausführen - to run, perform, execute
+die Öffnung - opening
+der Verschluss - die Schließung, closure

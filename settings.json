@@ -16,22 +16,18 @@
     },
     "window.zoomLevel": 2,
     "editor.minimap.enabled": false,
-    "emeraldwalk.runonsave": {
-        "commands": [
-            {
-                "match": "database.txt",
-                "isAsync": true,
-                "cmd": "python3 '/media/jam/win11/Archive/School/Deutsch/LanguageWorkspace/databasesorter.py'"
-            },
-            {
-                "match": "databasesorter.py",
-                "isAsync": true,
-                "cmd": "python3 '/media/jam/win11/Archive/School/Deutsch/LanguageWorkspace/databasesorter.py'"
-            }
-        ]
-    },
     "markdown.editor.drop.enabled": false,
     "[markdown]": {
         "workbench.editor.languageDetection": false
+    },
+    "saveAndRun": {
+      "commands": [
+        {
+          "match": "\\.py$",
+          "cmd": "python3 ${file}",
+          "useShortcut": false,
+          "silent": false
+        }
+      ]
     }
 }

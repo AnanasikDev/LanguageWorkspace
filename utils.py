@@ -14,10 +14,7 @@ def ignore_lines(line):
 def write_result(result, file):
     f = open(file, "w")
     f.write(result)
-
-def write_result(result, file):
-    f = open(file, "w")
-    f.write(result)
+    #f.write(str(result.encode("utf-8")))
 
 def clamp(a, minv, maxv):
     if a < minv:
